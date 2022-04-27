@@ -30,6 +30,7 @@ Amazon linux2 에서 java11 설치를 쉽게 제공해줍니다.
 amazon-linux-extras 명령어를 사용하여 java11를 설치합니다.
 
 ```bash
+$ sudo yum update -y
 $ sudo amazon-linux-extras install java-openjdk11 -y
 ```
 
